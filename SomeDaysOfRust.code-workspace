@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "01-the-rust-programming-language-book/003-guessing-game"
+		},
+		{
+			"path": "01-the-rust-programming-language-book/004-variables"
 		}
 	],
 	"settings": {}
