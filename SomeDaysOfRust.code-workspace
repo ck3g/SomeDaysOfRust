@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "01-the-rust-programming-language-book/002-hello-cargo"
+		},
+		{
+			"path": "01-the-rust-programming-language-book/003-guessing-game"
+		}
+	],
+	"settings": {}
+}
