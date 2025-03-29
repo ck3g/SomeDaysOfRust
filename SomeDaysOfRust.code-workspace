@@ -11,6 +11,9 @@
 		},
 		{
 			"path": "01-the-rust-programming-language-book/004-variables"
+		},
+		{
+			"path": "01-the-rust-programming-language-book/005-rectangles"
 		}
 	],
 	"settings": {}
