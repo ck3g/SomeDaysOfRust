@@ -17,6 +17,9 @@
 		},
 		{
 			"path": "01-the-rust-programming-language-book/006-packages-crates-modules/restaurant"
+		},
+		{
+			"path": "01-the-rust-programming-language-book/007-generics"
 		}
 	],
 	"settings": {}
