@@ -14,6 +14,9 @@
 		},
 		{
 			"path": "01-the-rust-programming-language-book/005-rectangles"
+		},
+		{
+			"path": "01-the-rust-programming-language-book/006-packages-crates-modules/restaurant"
 		}
 	],
 	"settings": {}
