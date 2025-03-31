@@ -20,6 +20,9 @@
 		},
 		{
 			"path": "01-the-rust-programming-language-book/007-generics"
+		},
+		{
+			"path": "01-the-rust-programming-language-book/008-testing"
 		}
 	],
 	"settings": {}
