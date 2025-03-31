@@ -23,6 +23,9 @@
 		},
 		{
 			"path": "01-the-rust-programming-language-book/008-testing"
+		},
+		{
+			"path": "01-the-rust-programming-language-book/009-cli/minigrep"
 		}
 	],
 	"settings": {}
