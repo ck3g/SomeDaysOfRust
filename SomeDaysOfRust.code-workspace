@@ -26,6 +26,9 @@
 		},
 		{
 			"path": "01-the-rust-programming-language-book/009-cli/minigrep"
+		},
+		{
+			"path": "01-the-rust-programming-language-book/010-cargo-workspaces"
 		}
 	],
 	"settings": {}
