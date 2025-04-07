@@ -11,6 +11,7 @@ fn main() {
     let listener = TcpListener::bind("127.0.0.1:7878").unwrap();
     let pool = ThreadPool::new(4);
 
+    // use listener.incoming().take(2) to demo shutdown
     for stream in listener.incoming() {
         let stream = stream.unwrap();
 
@@ -18,6 +19,8 @@ fn main() {
             handle_connection(stream);
         });
     }
+
+    println!("Shutting down!")
 }
 
 fn handle_connection(mut stream: TcpStream) {
