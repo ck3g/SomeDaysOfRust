@@ -29,6 +29,9 @@
 		},
 		{
 			"path": "01-the-rust-programming-language-book/010-cargo-workspaces"
+		},
+		{
+			"path": "01-the-rust-programming-language-book/011-web-server/hellowebsrv"
 		}
 	],
 	"settings": {}
