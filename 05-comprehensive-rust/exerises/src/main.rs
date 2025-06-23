@@ -1,8 +1,7 @@
 mod collatz_seq;
+mod transpose;
 
 fn main() {
-    println!(
-        "Collatz Sequence Length: {}",
-        collatz_seq::collatz_length(11)
-    ); // should be 15
+    collatz_seq::run();
+    transpose::run();
 }
